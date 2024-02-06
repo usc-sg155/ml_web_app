@@ -42,6 +42,8 @@ Copy code
 streamlit run mdps.py
 Access the app in your browser at the provided URL (usually http://localhost:8501).
 
+![Screenshot 2024-02-06 at 9 47 44 pm](https://github.com/usc-sg155/ml_web_app/assets/48895382/998b15b7-8d8a-4564-a078-d534cd54af30)
+
 Usage
 Upon running the app, you'll be presented with a user-friendly interface.
 Input the necessary health parameters for the desired prediction.
